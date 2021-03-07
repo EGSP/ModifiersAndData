@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/projectSettingsUpdater.xml
+/modules.xml
+/.idea.Modifiers.iml
+# Datasource local storage ignored files
+/../../../../../../../:\VProject\Experimentals\Modifiers\.idea\.idea.Modifiers\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
